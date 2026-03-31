@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:dygma.com)",
+      "WebFetch(domain:zsa.io)",
+      "WebFetch(domain:splitkb.com)",
+      "WebFetch(domain:blog.zsa.io)",
+      "WebFetch(domain:blog.splitkb.com)",
+      "WebFetch(domain:kinesis-ergo.com)",
+      "WebFetch(domain:ergonomictrends.com)",
+      "WebFetch(domain:www.bls.gov)",
+      "WebFetch(domain:naya.tech)",
+      "WebFetch(domain:www.rtings.com)",
+      "WebFetch(domain:www.cdc.gov)",
+      "WebFetch(domain:blogs.cdc.gov)"
+    ]
+  }
+}
